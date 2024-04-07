@@ -282,7 +282,7 @@ game_over_flicker:
     .endr
     rts
 
-game_over_message: .asciiz "Game Over"
+game_over_message: .asciiz "Fine del gioco"
 
 ; Sottoprogramma per il ciclo di disegno per controllare la velocità del gioco
 ; Carica il tempo di attesa in A prima della chiamata
